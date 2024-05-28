@@ -6,7 +6,6 @@ Objective: Design a model that predicts whether an employee will leave the compa
 **PACE Framework (Plan - Analyze - Construct - Execute)**
 ## Planning
 To address employee turnover at Salifort Motors, this notebook will build a model to predict whether an employee will leave or stay based on different data points.
-
 **Objectives**
 1. **Identify Key Factors:** Use statistical and machine learning techniques to identify the primary factors that contribute to employee turnover.
 2. **Predict Employee Turnover:** Build and validate predictive model to determine likelihood of employee turnover.
