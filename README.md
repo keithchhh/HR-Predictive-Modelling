@@ -3,8 +3,8 @@ Google Advanced Data Analytics Certificate - Capstone Project
 
 Objective: Design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points. 
 
-<img width="393" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/cbb1b1cd-a1f6-41ba-992f-48d83ffc22c5">
-<img width="317" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/f70e4686-6334-4e21-b52c-cc01d97e51a3">
+<img width="493" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/cbb1b1cd-a1f6-41ba-992f-48d83ffc22c5">
+<img width="417" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/f70e4686-6334-4e21-b52c-cc01d97e51a3">
 
 
 **PACE Framework (Plan - Analyze - Construct - Execute)**
