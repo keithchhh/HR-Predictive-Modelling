@@ -15,6 +15,10 @@ Objective: Design a model that predicts whether an employee will leave the compa
 <img width="377" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/00dfb69e-5d6c-4c21-a474-4d1b73cd2c2b">
 <img width="473" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/cbb1b1cd-a1f6-41ba-992f-48d83ffc22c5">
 
+**The analysis was supplemented with investigation into relationships between variables**
+<img width="434" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/902c16df-6d24-4602-ae7f-4d802c8c5296">
+<img width="408" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/4b87de12-97e4-4d23-9f25-330b57095a2c">
+
 
 **PACE Framework (Plan - Analyze - Construct - Execute)**
 ## Planning
