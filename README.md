@@ -16,9 +16,36 @@ Objective: Design a model that predicts whether an employee will leave the compa
 <img width="473" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/cbb1b1cd-a1f6-41ba-992f-48d83ffc22c5">
 
 **The analysis was supplemented with investigation into relationships between variables**
+
 <img width="434" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/902c16df-6d24-4602-ae7f-4d802c8c5296">
 <img width="358" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/4b87de12-97e4-4d23-9f25-330b57095a2c">
 
+These images show the satisfaction of employees drops when the projects taken exceed 5, and there is a signifcant drop in satisfaction for employees that have stayed for 4 years.
+
+Ultimately, 10 recommendations were given based on the significant contributing factors:
+
+**Time_spend_company :** Employees that have stayed for 4 years have very low satisfaction scores, resulting in a loss of experienced workers.
+
+1. Launch an investigation into why employees that have stayed with Salifort for 4 years have very low satisfaction scores.
+2. Reward employees that have stayed longer with the company with higher compensation / perks
+Satisfaction_level: Employees with less than 0.5 indicated on the satisfaction survey are at a high risk of leaving the company.
+3. Managers should reach out to employees that have high risk of turnover, constructively consult them on areas to improve satisfaction eg workload, training and development etc
+
+**Number_of_project:** Employees that work more than 5 projects have a significant deterioration of work satisfaction
+
+5. Limit the number of projects employees work on to a maximum of 5
+
+**Average_monthly_hours:** Employees that exceed more than 250 hours a month have a high rate of turnover due to burnout or inadequate compensation.
+
+6. To address overwork by employees, managers should re-evaluate project timelines and create a manageable working schedule for employees.
+7. Managers can consider hiring more employees to prevent overwork current teams.
+8. An investigation must be conducted on whether employeees are compensated fairly for overtime work
+9. A working culture of reducing overtime work must be put in place to reduce pressure to outperform.
+
+**Last_evaluation_score:** Higher evaluation scores are largely correlated to employees working longer hours at the company
+
+9. Managers should evaluate processes that are tedious and take large amounts of time, and identify methods to remove inefficient procedures.
+10. An investigation into the manager's evaluation process should be conducted, with the evaluation process focusing more on work outcomes and not on time spent on the task.
 
 **PACE Framework (Plan - Analyze - Construct - Execute)**
 ## Planning
