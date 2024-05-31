@@ -3,6 +3,12 @@ Google Advanced Data Analytics Certificate - Capstone Project
 
 Objective: Design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points. 
 
+XGBoost, Decision Trees, Random Forest, KNN and Logistic Regression was used to predict employee turnover, with XGBoost resulting in a 96-98% accuracy.
+<img width="255" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/5cc93d48-553b-4fb6-95b1-44f127029e92">
+
+Understanding Correlations and Feature Importance was key to coming up with strategic recommendations to increase employee retention.
+<img width="508" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/00dfb69e-5d6c-4c21-a474-4d1b73cd2c2b">
+
 <img width="493" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/cbb1b1cd-a1f6-41ba-992f-48d83ffc22c5">
 <img width="417" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/f70e4686-6334-4e21-b52c-cc01d97e51a3">
 
