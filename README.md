@@ -47,6 +47,12 @@ Satisfaction_level: Employees with less than 0.5 indicated on the satisfaction s
 9. Managers should evaluate processes that are tedious and take large amounts of time, and identify methods to remove inefficient procedures.
 10. An investigation into the manager's evaluation process should be conducted, with the evaluation process focusing more on work outcomes and not on time spent on the task.
 
+-
+-
+-
+-
+
+
 **PACE Framework (Plan - Analyze - Construct - Execute)**
 ## Planning
 To address employee turnover at Salifort Motors, this notebook will build a model to predict whether an employee will leave or stay based on different data points.
