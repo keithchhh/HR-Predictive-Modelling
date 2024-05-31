@@ -3,6 +3,9 @@ Google Advanced Data Analytics Certificate - Capstone Project
 
 Objective: Design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points. 
 
+<img width="593" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/cbb1b1cd-a1f6-41ba-992f-48d83ffc22c5">
+
+
 **PACE Framework (Plan - Analyze - Construct - Execute)**
 ## Planning
 To address employee turnover at Salifort Motors, this notebook will build a model to predict whether an employee will leave or stay based on different data points.
