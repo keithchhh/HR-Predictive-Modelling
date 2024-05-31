@@ -5,8 +5,9 @@ Objective: Design a model that predicts whether an employee will leave the compa
 
 **XGBoost, Decision Trees, Random Forest, KNN and Logistic Regression** was used to predict employee turnover, with XGBoost resulting in a 96-98% accuracy.
 
+<div align="center">
 <img width="455" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/5cc93d48-553b-4fb6-95b1-44f127029e92">
-
+</div>
 
 
 **Understanding Correlations and Feature Importance** was key to coming up with strategic recommendations to increase employee retention.
