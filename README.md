@@ -8,10 +8,11 @@ Objective: Design a model that predicts whether an employee will leave the compa
 <img width="455" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/5cc93d48-553b-4fb6-95b1-44f127029e92">
 
 
+
 **Understanding Correlations and Feature Importance** was key to coming up with strategic recommendations to increase employee retention.
 <img width="477" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/00dfb69e-5d6c-4c21-a474-4d1b73cd2c2b">
 
-<img width="493" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/cbb1b1cd-a1f6-41ba-992f-48d83ffc22c5">
+<img width="473" alt="image" src="https://github.com/keithchhh/HR-Predictive-Modelling/assets/145700071/cbb1b1cd-a1f6-41ba-992f-48d83ffc22c5">
 
 
 **PACE Framework (Plan - Analyze - Construct - Execute)**
