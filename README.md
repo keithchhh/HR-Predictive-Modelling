@@ -1,7 +1,7 @@
 # Salifort Motors: Predictive Model for Employee Turnover
-Google Advanced Data Analytics Certificate - Capstone Project
+Full Notebook Link: https://github.com/keithchhh/HR-Predictive-Modelling/blob/main/Final%20Analysis%20-%20HR%20Prediction_%20Salifort%20Motors.ipynb
 
-Objective: Design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points. 
+Objective: Design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points. This is the Capstone Project for the Google Advanced Data Analytics Certificate.
 
 **XGBoost, Decision Trees, Random Forest, KNN and Logistic Regression** was used to predict employee turnover, with XGBoost resulting in a 96-98% accuracy.
 
