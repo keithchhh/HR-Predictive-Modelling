@@ -22,7 +22,7 @@ Objective: Design a model that predicts whether an employee will leave the compa
 
 These images show the satisfaction of employees drops when the projects taken exceed 5, and there is a signifcant drop in satisfaction for employees that have stayed for 4 years.
 
-Ultimately, 10 recommendations were given based on the significant contributing factors:
+**Ultimately, 10 recommendations were given based on the significant contributing factors:**
 
 **Time_spend_company :** Employees that have stayed for 4 years have very low satisfaction scores, resulting in a loss of experienced workers.
 
