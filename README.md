@@ -4,6 +4,7 @@ Full Notebook Link: https://github.com/keithchhh/HR-Predictive-Modelling/blob/ma
 **Objective:** Design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points. This is the Capstone Project for the Google Advanced Data Analytics Certificate.
 
 **Key Findings:**
+
 **XGBoost, Decision Trees, Random Forest, KNN and Logistic Regression** was used to predict employee turnover, with XGBoost resulting in a 96-98% accuracy.
 
 <div align="center">
